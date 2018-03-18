@@ -1,7 +1,7 @@
 Facebook Scroll Limiter Extension
 -------------------
 
-Facebookta aşağı inilmeye başlandığında kullanıcıyı durdurur. Oksijen'in doğru tüketmesi sağlanır.
+Facebookta aşağı inilmeye başlandığında kullanıcıyı durdurur. Oksijen'in doğru tüketilmesi sağlanır.
 
 kurulum
 -------------------
